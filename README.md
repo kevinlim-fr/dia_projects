@@ -3,4 +3,4 @@
 ## Repo still under construction, the README file will be available shortly.
 In this repository you will find all my latest projects in Data and Artificial Intelligence
 My latest projects in Data and Artificial Intelligence
-## Unbeatable IA at Tic Tac Toe using minmax algorithm with alpha beta pruning [here](upUnbeatable%20AI%20Tic%20Tac%20Toe/Morpion-IA.pdf)
+## Unbeatable IA at Tic Tac Toe using minmax algorithm with alpha beta pruning [here](Unbeatable%20AI%20Tic%20Tac%20Toe/Morpion-IA.pdf)
