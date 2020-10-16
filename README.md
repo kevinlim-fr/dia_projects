@@ -9,5 +9,7 @@ In this repository you will find all my latest projects in Data and Artificial I
 
 ## Deep Learning and Natural Language Processing
 
+## SQL and noSQL Databases
+
 ## Repo still under construction, the README file will be completed shortly.
 
