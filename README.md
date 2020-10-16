@@ -5,7 +5,7 @@ In this repository you will find all my latest projects in Data and Artificial I
 ## Quantitative Analysis and Data Analysis projects
 
 ## Machine Learning & Algorithms
-### Unbeatable IA at Tic Tac Toe using minmax algorithm with alpha beta pruning [here](Unbeatable%20AI%20Tic%20Tac%20Toe/Morpion-IA.ipynb)
+### Minmax Algorithm / Alpha Beta Pruning - Unbeatable AI at Tic Tac Toe - [here](Unbeatable%20AI%20Tic%20Tac%20Toe/Morpion-IA.ipynb)
 
 ## Deep Learning and Natural Language Processing
 
