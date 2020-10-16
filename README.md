@@ -1,5 +1,5 @@
 # My Data and Artificial Intelligence projects 
-In this repository you will find all my latest projects in Data and Artificial Intelligence field.
+In this repository you will find all my latest projects in Data and Artificial Intelligence field\
 #Python #AI #SQL #DataScience #DataAnalysis
 
 ## Quantitative Analysis and Data Analysis projects
