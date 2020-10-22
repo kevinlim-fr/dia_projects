@@ -11,7 +11,7 @@ The goal of this project is to create an unbeatable AI at Tic Tac Toe.
 It's possible to see 2 AI play Tic Tac Toe untill a Tie, or play against the AI.
 The AI is achieved with the implementation of Minmax algorithm to predict the best next move. The implementation of Alpha-beta pruning is to reduce the computing time by skiping worst moves.
 
-### kNN and Confusion Matrix - Iris Flower dataset classification - [here](Machine%20Learning%20%26%20Algorithm/k-NN%20Classification.ipynb)
+### kNN and Confusion Matrix - Iris Flower dataset classification - [here](Machine%20Learning%20%26%20Algorithm/kNN_Iris/k-NN%20Classification.ipynb)
 The goal of this project is to implement ourselves the kNN algorithm and mesure our performance using the Confusion Matrix.
 
 ### kNN Classification Challenge - ESILV Classification Challenge - [here](Machine%20Learning%20%26%20Algorithm/kNN_Iris/k-NN%20Classification.ipynb)
